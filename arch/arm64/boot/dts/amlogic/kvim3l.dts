@@ -1903,5 +1903,6 @@
 };
 
 &irblaster {
-	status = "okay";
+	status = "disable";
+};
 };
